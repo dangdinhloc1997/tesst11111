@@ -1,0 +1,49 @@
+{
+    "category": [
+        {
+            "id": "1",
+            "title": "Male Clothes",
+            "imgUrl": "assets/man_fashion.png"
+        },
+        {
+            "id": "2",
+            "title": "Female Clothes",
+            "imgUrl": "assets/woman_fashion.png"
+        },
+        {
+            "id": "3",
+            "title": "Kid Clothes",
+            "imgUrl": "assets/baby_fashion-2.png"
+        },
+        {
+            "id": "4",
+            "title": "Male Shoes",
+            "imgUrl": "assets/man_shoes.png"
+        },
+        {
+            "id": "5",
+            "title": "Female Shoes",
+            "imgUrl": "assets/woman_shoes.png"
+        },
+        {
+            "id": "6",
+            "title": "Accessories",
+            "imgUrl": "assets/accessories.png"
+        },
+        {
+            "id": "7",
+            "title": "Bag & Backpack",
+            "imgUrl": "assets/bag.png"
+        },
+        {
+            "id": "8",
+            "title": "Glasses",
+            "imgUrl": "assets/glass.jpg"
+        },
+        {
+            "id": "9",
+            "title": "Other",
+            "imgUrl": "assets/other.png"
+        }
+    ]
+}
